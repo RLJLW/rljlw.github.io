@@ -8,5 +8,5 @@ This is project one
 
 [Back to rljlw.github.io](https://rljlw.github.io/)
 
-[Back to RLJLW on Github](https://https://github.com/RLJLW)
+[Back to RLJLW on Github](https://github.com/RLJLW)
 
