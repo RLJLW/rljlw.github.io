@@ -3,3 +3,11 @@
 This is the read me file for the 
 rljlw.github.io
 repo
+
+Projects
+
+https://rljlw.github.io/projects/
+
+Readme direct link
+
+https://rljlw.github.io/projects/README.md
