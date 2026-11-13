@@ -4,9 +4,7 @@ This is a projects page
 
 # Project 1
 
-(Test Project Structure)
-
-[Back to rljlw.github.io/projects/project1](Project 1) - Test
+[Project 1](rljlw.github.io/projects/project1) - Test of Project Structure
 
 ## Navigation
 
