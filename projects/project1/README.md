@@ -4,9 +4,9 @@ This is project one
 
 ## Navigation
 
-[https://rljlw.github.io/projects/](Back to Projects)
+[Back to Projects](https://rljlw.github.io/projects/)
 
-[https://rljlw.github.io/](Back to rljlw.github.io)
+[Back to rljlw.github.io](https://rljlw.github.io/)
 
-[https://[rljlw.github.io/projects](Back to RLJLW on Github)
+[Back to RLJLW on Github](https://[rljlw.github.io/projects)
 
