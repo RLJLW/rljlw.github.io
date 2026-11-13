@@ -1,6 +1,10 @@
 # Project 1
 
-This is project one
+This is project one.
+
+This shows how a project can be made as a sub project of the root projects page.
+
+Below are navigation options.
 
 ## Navigation
 
@@ -8,5 +12,5 @@ This is project one
 
 [Back to rljlw.github.io](https://rljlw.github.io/)
 
-[Back to RLJLW on Github](https://github.com/RLJLW)
+[Back to RLJLW on GitHub](https://github.com/RLJLW)
 
