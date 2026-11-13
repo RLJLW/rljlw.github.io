@@ -1,6 +1,6 @@
 ## Projects Page
 
-This is a projects page
+This is a projects page  - Testing and Demonstration purposes of how to form a basic projects page on GitHub with a sub project.
 
 # Project 1
 
@@ -10,4 +10,4 @@ This is a projects page
 
 [Back to rljlw.github.io](https://rljlw.github.io/)
 
-[Back to RLJLW on Github](https://github.com/RLJLW)
+[Back to RLJLW on GitHub](https://github.com/RLJLW)
