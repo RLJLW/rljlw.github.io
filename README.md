@@ -8,6 +8,3 @@ Projects
 
 https://rljlw.github.io/projects/
 
-Readme direct link
-
-https://rljlw.github.io/projects/README.md
