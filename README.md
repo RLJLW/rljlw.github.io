@@ -4,7 +4,7 @@ This is the read me file for the
 rljlw.github.io
 repo
 
-Projects
+Projects Example Page (Test)
 
 https://rljlw.github.io/projects/
 
