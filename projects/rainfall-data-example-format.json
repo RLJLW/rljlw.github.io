@@ -1,0 +1,21 @@
+{
+  "data": [
+  {
+    "rainfall_id":1,
+    "rainfall_amount":20,
+    "rainfall_date": "2026-11-14T04:56:46.000Z"
+  },
+  {
+    "rainfall_id":2,
+    "rainfall_amount":30,
+    "rainfall_date": "2026-11-15T22:00:00.000Z"
+  },
+  {
+    "rainfall_id":3,
+    "rainfall_amount": 10,
+    "rainfall_date": "2026-10-31T22:00:00.000Z"
+  }
+  ],
+  "description": "Example Rainfall Data",
+  "dataCollectedBy": "Person Name"
+}
