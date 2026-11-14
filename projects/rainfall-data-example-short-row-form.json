@@ -5,5 +5,5 @@
   {"rainfall_id":3,	"rainfall_amount": 10,	"rainfall_date": "2026-10-31T22:00:00.000Z"}
   ],
   "description": "Example Rainfall Data",
-  "dataCollectedBy": "Jay"
+  "dataCollectedBy": "Person Name"
 }
