@@ -16,6 +16,8 @@ This form requires the correct access key to add the data (otherwise the input w
 
 [Add Rainfall Reading Form](https://brown-lemur-226119.hostingersite.com/form/7c1e26d9-4844-455e-8f7b-be835048c12d)
 
+## Get Rainfall Data via Chat
+
 Ask a Chat interface to return rainfall data.
 Use the word "show" in your response.
 
