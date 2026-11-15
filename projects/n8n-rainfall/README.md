@@ -16,4 +16,4 @@ Add data to a data table via a simple n8n web form.
 
 This form requires the correct access key to add the data (otherwise the input will be ignored).
 
-[Submit a Reading](https://brown-lemur-226119.hostingersite.com/form-test/7c1e26d9-4844-455e-8f7b-be835048c12d)
+[Add Rainfall Reading Form](https://brown-lemur-226119.hostingersite.com/form/7c1e26d9-4844-455e-8f7b-be835048c12d)
